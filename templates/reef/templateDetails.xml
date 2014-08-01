@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template">
+        <name>reef</name>
+        <creationDate>2014-08-01</creationDate>
+        <author>REEF</author>
+        <authorEmail>reef@example.com</authorEmail>
+        <authorUrl>alleviatepovertynow.org</authorUrl>
+        <copyright>REEF 2014</copyright>
+        <license>Private</license>
+        <version>1.0.0</version>
+        <description>Basic Reef Template</description>
+        <files>
+                <filename>index.php</filename>
+                <filename>templateDetails.xml</filename>
+                <folder>images</folder>
+                <folder>css</folder>
+        </files>
+        <positions>
+                <position>breadcrumb</position>
+                <position>left</position>
+                <position>right</position>
+                <position>top</position>
+                <position>user1</position>
+                <position>user2</position>
+                <position>user3</position>
+                <position>user4</position>
+                <position>footer</position>
+        </positions>
+</extension>
